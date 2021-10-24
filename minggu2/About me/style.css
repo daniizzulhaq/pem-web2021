@@ -1,0 +1,198 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #E6E6E6;
+	height: 750px;
+}
+
+.left-bar {
+	text-align: center;
+	width: 300px;
+	height: 330px;
+	background-color:white;
+	margin-left: 100px;
+	margin-top: 50px;
+	-webkit-box-shadow: -6px 5px 5px 0px rgba(173,173,173,0.66);
+	-moz-box-shadow: -6px 5px 5px 0px rgba(173,173,173,0.66);
+	box-shadow: -6px 5px 5px 0px rgba(173,173,173,0.66);
+
+}
+
+.left-bar1{
+	background-color: blue;
+	width: 100%;
+	height: 280px;
+}
+
+.user-photo {
+	margin-top: 30px;
+	width: 150px;
+}
+
+.myname {
+	text-transform: uppercase;
+	font-size: 17px;
+	font-family: Sans-serif	;
+}
+
+.inisial {
+	margin-top: -15px;
+}
+
+.wadah {
+
+	display: flex;
+	flex-direction: row;
+	margin-left: 20px;
+	position: relative;
+	left: 30px;
+}
+
+.socmed {
+	margin-top: 5px;
+	width: 40px;
+	height: 40px;
+	margin-left: 20px;
+	border-radius: 100px;
+	transition: 2s;
+}
+
+.container {
+	width: 750px;
+	height: 700px;
+	background-color: #fbfbfb;
+	margin-left: 430px;
+	margin-top: -361px;
+	border-left: 0.1px solid #cecece;
+	border-bottom: 0.1px solid #cecece;
+}
+
+.bio {
+	width: 700px;
+	height: 330px;
+	margin-left: 25px;
+}
+
+.hello {
+	position: relative;
+	top: 30px;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+.say {
+	font-size: 18px;
+	position: relative;
+	top: 30px;
+}
+
+.line {
+	margin-left: 75px;
+	width: 600px;
+	height: 2px;
+	background-color: #e8e8e8;
+}
+
+.profil {
+	width: 325px;
+	height: 300px;
+	margin-top: 50px;
+	margin-left: 25px;
+}
+
+.skill {
+	width: 325px;
+	height: 300px;
+	margin-left: 375px;
+	margin-top: -270px;
+}
+
+.personal {
+	font-size: 17px;
+}
+
+.language{
+	list-style: none;
+	margin-left: -30px;
+}
+
+.wadah-bullet {
+	display: flex;
+	flex-direction: row;
+
+}
+
+.bullet {
+	margin-left: 5px;
+	width: 25px;
+	height: 25px;
+	border-radius: 30px;
+	background-color: #0984e3;
+	border:1px solid #0984e3;
+}
+
+#tbulet {
+	background-color: white;
+	border: 1px solid #0984e3;
+}
+
+.list {
+	margin-top: 20px;
+}
+
+#git {
+	width: 40px;
+}
+
+/*RIGHT BAR*/
+
+.right-bar {
+	margin-top: -700px;
+	margin-left: 1210px;
+	width: 50px;
+	height: 330px;
+}
+
+.rb-pic {
+	border-radius: 50px;
+	width: 35px;
+	margin-top: 10px;
+	margin-left: 7.5px;
+	border:1px solid #7f8c8d;
+}
+
+#mypic {
+	width: 50px;
+	margin-left: 0px;
+	border: 0px;
+}
+/**/
+#wa {
+	width: 40px;
+}
+
+#fb {
+	width: 40px;
+}
+
+#ig {
+	width: 40px;
+}
+
+#school {
+	height: 35px;
+}
+
+.socmed:hover {
+	transform: rotateY(360deg);
+	transition: 2s;
+}
+
+#school,#email,#blog {
+	transition: 2s;
+}
+
+#school:hover ,#email:hover ,#blog:hover {
+	transform: rotateY(360deg);
+	transition: 2s;
+}
