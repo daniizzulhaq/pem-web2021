@@ -1,0 +1,51 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+
+header {
+	background-color:aqua;
+    color:black;
+    text-align:center;
+    padding:5px;  
+    height: 100px;
+
+}
+
+nav {
+	background-color: silver;
+	height: 400px;
+	width: 650px;
+	position: absolute;
+	top: 110px;
+
+}
+
+.navigasi ul {
+	position: absolute;
+	font-size: 20px;
+
+}
+
+article {
+	float: left;
+	position: relative;
+	background-color: white;
+	left: 650px;
+	height: 400px;
+	width: 716px;
+}
+
+
+footer {
+	 background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;  
+    height: 71px;
+   	position: relative;
+   	font-size: 20px;
+
+}
