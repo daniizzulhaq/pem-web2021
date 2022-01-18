@@ -1,0 +1,428 @@
+body {
+
+  margin: 0px;
+  padding: 3px;
+  background-color: aqua  
+}
+
+.atas {
+
+   background-image: url();
+   height: 600px;
+   
+
+}
+
+
+ul.a {
+ 
+  border: 2px solid;
+  border-radius: 20px;
+  position: absolute;
+  left: 82%;
+  padding-right: 10px;
+  padding-left: 11px;
+  background-color: white;
+  cursor: pointer;
+
+}
+
+ul.b {
+
+  
+  border: 2px solid;
+  border-radius: 20px;
+  position: absolute;
+  left: 80%;
+  padding-right: 17px;
+  padding-left: 17px;
+  background-color: white;
+  cursor: pointer;
+
+
+}
+
+
+ul.c  {
+
+
+
+  border: 2px solid;
+  border-radius: 20px;
+  position: absolute;
+  left: 90%;
+  padding-right: 17px;
+  padding-left: 17px;
+  background-color: white;
+  cursor: pointer;
+
+}
+
+a {
+
+  text-decoration: none;
+  color: black;
+
+}
+
+
+ul {
+	list-style-type: none;
+	display: inline-table;
+}
+
+
+
+
+.img {
+
+	width: 200px;
+	position: absolute;
+	left: 42%;
+	top: 280px;
+}
+
+
+
+
+h1 {
+
+	position: absolute;
+	left: 560px;
+	top: 170px;
+	font-size: 25px;
+	color: blue;
+}
+
+h2 {
+    position: absolute;
+    left: 478px;
+    top: 540px;
+    color: white;
+
+}
+
+
+h3 {
+	position: absolute;
+	color: white;
+	top: 560px;
+	font-size: 23px;
+  text-align: center;
+  left: 150px;  
+
+}
+
+
+
+h4 {
+	position: absolute;
+	left: 575px;
+	color: white;
+	top: 580px;
+	font-size: 20px;	
+}
+
+
+
+
+.tengah {
+	border: 5px solid;
+	height: 800px;
+	width: 1335px;
+	border-radius: 5px;	
+	background-image: url(udinus1.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+  position: absolute;
+  top: 700px;
+
+}
+
+
+
+
+
+
+h6 {
+    font-size: 25px; 
+    color: black;
+    position: absolute;
+    left: 430px;
+    padding-top: -50px;
+}
+
+
+
+.image  {
+    
+    width: 200px;
+    position: absolute;
+    left: 550px;
+    top: 710px;
+   
+
+}
+
+
+.kotak  {
+
+  position: absolute;
+  top: 705px;
+  background-color: blue;
+  width: 1335px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Raleway';
+  padding-top: 1px;
+  padding-bottom: 5px;
+  border-color: 0 0 0 2px solid white;
+  border-radius: 0px;
+  left: 8px;
+  height: 23px;
+}
+
+
+
+.kotaka   {
+
+  border:2px solid;
+  position: absolute;
+  border-radius: 5px;
+  height: 33px;
+  width: 210px;
+  left: 254px;
+  top: 1344px;
+  background-color: transparent;
+  background-color: red;
+}
+
+
+
+.boxatas1 {
+  width: 218px;
+  height: 34px;
+  border:1px solid white;
+  border-radius: 5px;
+  font-size: 20px;
+  position: absolute;
+  top: px;
+  padding-top: 8px;
+  background-color: grey;
+  left: 0px;
+}
+
+
+
+
+.box   {
+
+width: 220px;
+height: 300px;
+border-radius: 10px;
+border:2px solid ;
+position: absolute;
+left: 250px;
+top: 1080px;
+color: white;
+background-color: transparent;
+
+   
+}
+
+
+.box2   {
+
+position: absolute;
+border:5px solid;
+width: 100px;
+top: 950px;
+
+
+}
+
+
+.tombol  {
+
+  position: absolute;
+  top: 1351px;
+  left: 316px;
+}
+
+
+
+
+.boxatas3 {
+  width: 218px;
+  height: 34px;
+  border:1px solid white;
+  border-radius: 5px;
+  font-size: 20px;
+  position: absolute;
+  top: 0px;
+  padding-top: 8px;
+  background-color: grey;
+  left: -0px;
+}
+
+
+
+
+
+
+  .button  {
+
+    cursor: pointer;  
+  }
+
+
+
+
+.boxatas2 {
+  width: 218px;
+  height: 34px;
+  border:1px solid white;
+  border-radius: 5px;
+  font-size: 20px;
+  position: absolute;
+  top: 0px;
+  padding-top: 8px;
+  background-color: grey;
+  left: -0px;
+}
+
+
+
+
+.boxc  {
+
+width: 220px;
+height: 300px;
+border-radius: 10px;
+border:2px solid ;
+position: absolute;
+left: 540px;
+top: 1080px;
+color: white;
+background-color: transparent;
+
+   
+}
+
+
+
+.box4 {
+
+   border:2px solid;
+   border-radius: 5px;
+   width: 210px;
+   height: 33px;
+   position: absolute;
+   top: 1344px;
+   left: 545px;
+   background-color: red;
+
+
+}
+
+  
+  .tom   {
+
+
+    position: absolute;
+    top: 1351px;
+    left: 605px;
+  }
+
+
+
+
+
+.boxd  {
+
+width: 220px;
+height: 300px;
+border-radius: 10px;
+border:2px solid ;
+position: absolute;
+left: 850px;
+top: 1080px;
+color: white;
+background-color: transparent;
+
+   
+}
+
+
+
+.box5 {
+
+   border:2px solid;
+   border-radius: 5px;
+   width: 210px;
+   height: 33px;
+   position: absolute;
+   top: 1344px;
+   left: 854px;
+   background-color: red;
+
+
+}
+
+  
+  .tomm   {
+
+
+    position: absolute;
+    top: 1351px;
+    left: 920px;
+  }
+
+
+
+
+
+.p  {
+
+ font-size: 30px;
+  color: red;
+  
+  top: 1300px;
+  position: absolute;
+  left: 400px;
+
+}
+
+
+
+.q  {
+
+font-size: 18px;
+position: absolute;
+top: 1445px;
+color: white;
+left: 400px;
+text-align: center;
+
+}
+
+
+.line   {
+  
+
+  position: absolute;
+  top: 1450px;
+  width: 1337px;
+  border :2px solid;
+  color: black;
+
+
+}
+
+
+
+
+
+
+
